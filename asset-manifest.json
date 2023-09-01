@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/tuya-key-extractor/static/css/main.073c9b0a.css",
-    "main.js": "/tuya-key-extractor/static/js/main.0ca1b95f.js",
+    "main.js": "/tuya-key-extractor/static/js/main.567a8dc8.js",
     "static/js/787.bd0c4fdd.chunk.js": "/tuya-key-extractor/static/js/787.bd0c4fdd.chunk.js",
-    "static/media/logo.svg": "/tuya-key-extractor/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/tuya-key-extractor/index.html",
     "main.073c9b0a.css.map": "/tuya-key-extractor/static/css/main.073c9b0a.css.map",
-    "main.0ca1b95f.js.map": "/tuya-key-extractor/static/js/main.0ca1b95f.js.map",
+    "main.567a8dc8.js.map": "/tuya-key-extractor/static/js/main.567a8dc8.js.map",
     "787.bd0c4fdd.chunk.js.map": "/tuya-key-extractor/static/js/787.bd0c4fdd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0ca1b95f.js"
+    "static/js/main.567a8dc8.js"
   ]
 }
