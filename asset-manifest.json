@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/SmartBrainz/tuya-key-extractor/static/css/main.073c9b0a.css",
-    "main.js": "/SmartBrainz/tuya-key-extractor/static/js/main.dc84e185.js",
+    "main.js": "/SmartBrainz/tuya-key-extractor/static/js/main.2326991e.js",
     "static/js/787.bd0c4fdd.chunk.js": "/SmartBrainz/tuya-key-extractor/static/js/787.bd0c4fdd.chunk.js",
     "static/media/logo.svg": "/SmartBrainz/tuya-key-extractor/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/SmartBrainz/tuya-key-extractor/index.html",
     "main.073c9b0a.css.map": "/SmartBrainz/tuya-key-extractor/static/css/main.073c9b0a.css.map",
-    "main.dc84e185.js.map": "/SmartBrainz/tuya-key-extractor/static/js/main.dc84e185.js.map",
+    "main.2326991e.js.map": "/SmartBrainz/tuya-key-extractor/static/js/main.2326991e.js.map",
     "787.bd0c4fdd.chunk.js.map": "/SmartBrainz/tuya-key-extractor/static/js/787.bd0c4fdd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.dc84e185.js"
+    "static/js/main.2326991e.js"
   ]
 }
