@@ -28,8 +28,9 @@ function App() {
     for (const ch of xml.children) {
       if (ch.attributes.name.includes("s_home_data")) {
         console.log(ch.value);
-
-        return JSON.parse(ch.value).deviceRespBeen;
+        const json = ch.value.replaceAll('&quot;',`"`)
+        console.log(json)
+        return JSON.parse(json).deviceRespBeen;
       }
     }
   }
